@@ -1,6 +1,6 @@
 (async function checkForUpdates() {
     const currentVersion = "1.0";
-    const versionUrl = "https://raw.githubusercontent.com/ivysone/Will-you-be-my-Valentine-/main/version.json"; 
+    const versionUrl = "https://raw.githubusercontent.com/ivysone/Will-you-be-my-Valentine-/main/version.json";
 
     try {
         const response = await fetch(versionUrl);
@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
+    "Pillow noi n",
+    "Pillow Pilij",
+    "Pillow r u sureeeeeeeee",
     "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
+    "Just think about it n bubu!",
+    "If you say no, I will be really very sad pillu...",
     "I will be very sad...",
-    "I will be very very very sad...",
+    "I will be very very very sad so pillow u aisa doyegi kya...",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Just kidding, say yes n babyyyyyyyyyyyyy please! ❤️"
 ];
 
 let messageIndex = 0;
